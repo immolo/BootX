@@ -1,0 +1,1 @@
+#include <MacHeaders.h>#define BOOTX_BUILD_INIT	1#define BOOTX_BUILD_STRAP	1

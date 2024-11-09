@@ -1,0 +1,1 @@
+#define __MIBOOT__#define	BOOTX_ENV BOOTX_ENV_RAW
